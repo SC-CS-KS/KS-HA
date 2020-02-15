@@ -1,7 +1,7 @@
 # KS-HA
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-HA
+High Availability
 =================
 
    * [High Availability Architectures](#high-availability-architectures)
@@ -25,4 +25,3 @@ HA
       * [参考](#参考)
          * [<a href="https://github.com/SunnnyChan/SunnnyChan.github.io/blob/master/post/readme/reading/arch/scalable_arch">可伸缩架构 : 面向增长应用的高可用</a>](#可伸缩架构--面向增长应用的高可用)
          * [<a href="https://github.com/SunnnyChan/SunnnyChan.github.io/blob/master/post/readme/reading/arch/DS-Service-Framework">分布式服务框架：原理与实践</a>](#分布式服务框架原理与实践)
-
